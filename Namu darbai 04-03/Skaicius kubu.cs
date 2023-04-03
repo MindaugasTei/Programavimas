@@ -1,4 +1,4 @@
-﻿namespace simbolis;
+namespace skaiciuskubu;
 class Program
 {
     static void Main(string[] args)
