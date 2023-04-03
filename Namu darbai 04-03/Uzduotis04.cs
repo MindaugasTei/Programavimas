@@ -1,4 +1,4 @@
-﻿namespace Sestauzduotis;
+namespace ketvirtauzduotis;
 class Program
 {
     static void Main(string[] args)
